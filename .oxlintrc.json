@@ -1,0 +1,3 @@
+{
+  "ignorePatterns": ["styled-system/**", "dist/**"]
+}
