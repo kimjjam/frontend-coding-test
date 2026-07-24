@@ -5,7 +5,7 @@ React + TypeScript + PandaCSS 프로젝트입니다.
 
 ## GitHub Repository
 
-https://github.com/kimjjam/프론트엔드코테
+https://github.com/kimjjam/frontend-coding-test
 
 ## 실행
 
