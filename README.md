@@ -3,6 +3,10 @@
 아침·점심·저녁 시간대별 보상과 추가 기회, 4번째 보너스 슬롯을 구현한
 React + TypeScript + PandaCSS 프로젝트입니다.
 
+## GitHub Repository
+
+https://github.com/kimjjam/프론트엔드코테
+
 ## 실행
 
 ```bash
